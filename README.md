@@ -2,7 +2,7 @@
 
 Great introductory class to Deep Learning by MIT6.S191 (03/2020, 03/2021)
 - Video Lectures publicly available http://introtodeeplearning.com/2020/index.html  
-- Notebooks Lab sessions 1 & 2 
+- Notebooks Lab sessions 1-3
 
 License
 All code in this repository is copyright 2021 MIT 6.S191 Introduction to Deep Learning. All Rights Reserved.
